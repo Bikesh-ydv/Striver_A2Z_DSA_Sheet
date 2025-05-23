@@ -10,7 +10,7 @@
   Explanation: The largest element of the array is 35 and the second largest element is 34.
   
   Approach
-  --if the current element than curr then update curr and prev
+  --if the current element is greater than curr then update curr and prev
   --else if current element is less than curr and also greater than prev then update prev to current element
   
   Time complexity : O(n)
